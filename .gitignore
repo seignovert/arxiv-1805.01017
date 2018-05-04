@@ -1,5 +1,4 @@
 # LaTeX
-*.pdf
 *.aux
 *.bbl
 *.blg
@@ -10,3 +9,6 @@
 *.spl
 *.synctex.gz
 __latexindent_temp.tex
+
+# Remove Ouput File
+2018-LeMouelic.pdf
