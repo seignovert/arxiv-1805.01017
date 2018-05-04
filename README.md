@@ -1,7 +1,7 @@
 Mapping polar atmospheric features on Titan with VIMS: from the dissipation of the northern cloud to the onset of a southern polar vortex
 ===
 [
-    ![Article: Le Mouélic et al. (2018)](https://img.shields.io/badge/Article-Le%20Moul%C3%A9ic%20et%20al.%20(2018)-green.svg)
+    ![Article: Le Mouélic et al. (2018)](https://img.shields.io/badge/Article-Le%20Mou%C3%A9lic%20et%20al.%20(2018)-green.svg)
     ![Icarus: Vol 311, pp 371-383](https://img.shields.io/badge/Icarus-Vol.%20311%2C%20pp%20371--383-yellow.svg)
     ![doi: 10.1016/j.icarus.2018.04.028](https://img.shields.io/badge/doi-10.1016%2Fj.icarus.2018.04.028-blue.svg)
 ][doi]
