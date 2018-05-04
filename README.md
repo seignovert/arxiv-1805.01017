@@ -11,6 +11,12 @@ Mapping polar atmospheric features on Titan with VIMS: from the dissipation of t
 [
     ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ][cc-by-na-sa-4]
+[
+    ![Tarvis: status](https://travis-ci.org/seignovert/arxiv-1805.01017.svg?branch=master)
+][travis]
+[
+    ![Github Releases](https://img.shields.io/github/release/seignovert/arxiv-1805.01017.svg)
+][last-release]
 
 _Stéphane Le Mouélic, Sébastien Rodriguez, Rozen Robidel, Baptiste Rousseau, Benoît Seignovert, Christophe Sotin, Jason W. Barnes, Robert H. Brown, Kevin H. Baines, Bonnie J. Buratti, Roger N. Clark, Philip D. Nicholson, Pascal Rannou, Thomas Cornet_
 
@@ -19,4 +25,6 @@ We have analyzed the complete archive of the Visual and Infrared Mapping Spectro
 [doi]: https://dx.doi.org/10.1016/j.icarus.2018.04.028
 [arxiv]: https://arxiv.org/abs/1805.01017
 [cc-by-na-sa-4]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[travis]: https://travis-ci.org/seignovert/arxiv-1805.01017
+[last-release]: https://github.com/seignovert/arxiv-1805.01017/releases/latest
 [lemouelic2012]: http://dx.doi.org/10.1016/j.pss.2011.04.006
